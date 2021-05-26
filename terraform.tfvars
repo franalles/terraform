@@ -1,2 +1,6 @@
 compartment_id   = "ocid1.tenancy.oc1..aaaaaaaaiq4zp55favmeitmdd4c3lggs57iswzowvwa5k6566whocrhxgbsa"
 region           = "sa-santiago-1"
+user_ocid        = "ocid1.user.oc1..aaaaaaaanyid33ldcxisfc7vcnnvs3hk2tj7rlc44o3wevaowhvjmklrvb7a"
+fingerprint      = "6d:ec:fd:49:a6:da:ae:82:10:1e:41:a7:5c:db:11:7c"
+tenancy_ocid     = "falles"
+private_key_path = "~/.oci/oci_api_key_public.pem"
