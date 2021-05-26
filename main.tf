@@ -14,8 +14,6 @@ provider "oci"{
     region = var.region 
 }
 
-
-
 resource "oci_core_vcn" "internal" {
   dns_label      = "internal"
   cidr_block     = "172.16.0.0/20"
